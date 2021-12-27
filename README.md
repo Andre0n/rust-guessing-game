@@ -32,6 +32,8 @@ Run the game
 
  - [Rust](https://www.rust-lang.org/)
  - [The Rust Programming Language - Book](https://doc.rust-lang.org/book/)
+ - [Generate Random Values in Rust](https://rust-lang-nursery.github.io/rust-cookbook/algorithms/randomness.html)
+
 
 
  ## License
